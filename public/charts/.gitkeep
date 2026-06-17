@@ -1,0 +1,2 @@
+# Drop chart images here: q1-age-group.png ... q17-healthier-choice.png
+# Paths are referenced from src/data/surveyData.ts (findings[].image).
