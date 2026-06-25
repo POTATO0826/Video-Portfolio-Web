@@ -252,14 +252,14 @@ export const videos: VideoItem[] = [
     title: "Video 1 — Project Overview & Findings",
     description:
       "An overview of the study, survey method, and the key findings on consumer demand and price sensitivity for Coca-Cola Zero Sugar.",
-    embedUrl: "", // paste a YouTube embed URL later, e.g. https://www.youtube.com/embed/VIDEO_ID
+    embedUrl: "https://www.youtube.com/embed/38LqrHy-oSg",
   },
   {
     id: "video-2",
     title: "Video 2 — Microeconomic Analysis & Recommendations",
     description:
       "A deeper look at the microeconomic concepts (elasticity, oligopoly, brand loyalty) and the recommendations drawn from the survey results.",
-    embedUrl: "", // paste a YouTube embed URL later, e.g. https://www.youtube.com/embed/VIDEO_ID
+    embedUrl: "https://www.youtube.com/embed/OX72hBKPMek",
   },
 ];
 
